@@ -19,5 +19,5 @@ Welcome to the PingPong documentation. We all know that ping pong is a favorite 
      6. Anytime when the user touches the ping pong button the game is rest. This is achieved by setting the when clicked block of PingPong button and doing the score change and enabling the ball along with changing its position to the top right corner.
 
 
-     This game is pretty straint forward one i used one procedure here to update the score that will add one when ever it is called 
+     This game is pretty straight forward one i used one procedure here to update the score that will add one when ever it is called 
          
